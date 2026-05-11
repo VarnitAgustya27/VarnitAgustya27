@@ -46,11 +46,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VarnitAgustya27&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VarnitAgustya27&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=VarnitAgustya27&theme=tokyonight&hide_border=true" height="180em"/>
 </p>
 
 ---
