@@ -63,6 +63,31 @@
 - Task & pilgrim management
 - Dashboard integration
 
+🔗 Project Link:
+https://github.com/VarnitAgustya27/Pravaah-Crowd_Management_System-
+
+### 🚗 Vehicle Parking System  
+Python-based parking management application for handling vehicle records, parking allocation, and entry/exit tracking efficiently.
+
+🔗 Project Link:
+https://github.com/VarnitAgustya27/VehicleParkingSystem-Python
+
+### 💳 Credit Card Fraud Detection System  
+Machine Learning-based fraud detection system that identifies fraudulent credit card transactions using classification algorithms and performance analysis techniques.
+
+🔹 Features:
+- Fraud Transaction Detection
+- Multiple ML Model Comparison
+- ROC Curve & Confusion Matrix Visualization
+- Data Preprocessing & Feature Scaling
+- Performance Evaluation using ROC-AUC
+
+🛠️ Tech Stack:
+Python • Scikit-learn • Pandas • NumPy • Matplotlib
+
+🔗 Project Link:
+https://github.com/VarnitAgustya27/Credit-Card-Fraud-Detection-System
+
 ### 🎮 Python Games
 - Built mini games using Python
 - Learned game logic & event handling
